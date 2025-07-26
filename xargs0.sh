@@ -3,8 +3,8 @@
 # Configuration
 SERVER="irc.libera.chat"
 PORT=6667
-NICK="dolly"
-CHANNEL="#ddial"
+NICK="dollys"
+CHANNEL="#dolly"
 XAI_API_KEY="${XAI_API_KEY}"
 MODEL="grok-4"
 API_URL="https://api.x.ai/v1/chat/completions"
