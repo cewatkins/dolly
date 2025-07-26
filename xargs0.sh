@@ -11,7 +11,7 @@ API_URL="https://api.x.ai/v1/chat/completions"
 LOGFILE="dolly.log"
 RATE_LIMIT_SECONDS=5
 #mycode here
-echo $1
+#echo $1
 #mycode end.
 
 if [ -z "$XAI_API_KEY" ]; then
